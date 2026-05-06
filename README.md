@@ -1,4 +1,4 @@
-# learn-vue-3-arialinganuri
+# learn-vue3-janavgowda
 
 This template should help get you started developing with Vue 3 in Vite.
 
